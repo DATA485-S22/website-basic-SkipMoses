@@ -1,11 +1,11 @@
-name: "my-website"
+name: "Website Demo"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Skip's First Website"
   left:
     - text: "Home"
       href: index.html
   right:
     - text: "Github"
       icon: fa-github
-      href: https://github.com/
+      href: https://github.com/SkipMoses
