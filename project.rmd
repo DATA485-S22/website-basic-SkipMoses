@@ -1,0 +1,23 @@
+---
+title: "My Project"
+author: "Skip Moses"
+date: "1/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is Test
+
+For all $x$, $y \in \mathbb{R}$, $\vert x - y \vert \leq \vert x \vert + \vert y \vert$.
+
+
+Indeed, since $z \leq \vert z \vert$ for every $z \in \mathbb{z}$
+
+\begin{align}
+x + y &\leq \vert x \vert + y \leq \vert x \vert + \vert y \vert \\
+-(x+y) &\leq \vert x \vert - y \leq \vert x \vert + \vert y \vert
+\end{align}
+
